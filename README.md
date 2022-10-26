@@ -1,7 +1,7 @@
 # Projeto Conceitual de Banco de Dados_E-Commerce
 Projeto desenvolvido com o objetivo de refinar um banco de dados apresentado.
 
-## **ESCOPO	**
+## **ESCOPO**
 
 ## **Narrativa - Produto**
 
