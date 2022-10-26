@@ -1,6 +1,8 @@
 # Projeto Conceitual de Banco de Dados_E-Commerce
 Projeto desenvolvido com o objetivo de refinar um banco de dados apresentado.
 
+![e-commerce](https://github.com/isabela-rossetti/projeto_conceitual_bd_ecommerce/blob/main/e-commerce.png)
+
 ## **ESCOPO**
 
 ## **Narrativa - Produto**
@@ -23,8 +25,12 @@ Projeto desenvolvido com o objetivo de refinar um banco de dados apresentado.
 
 ## **Objetivo:**
 
-Dado os requisitos para a construção do modelo conceitual de um banco de dados voltado para um e-commerce, refinar o modelo apresentado acrescentando os seguintes pontos:
+Dados os requisitos para a construção do modelo conceitual de um banco de dados voltado para um e-commerce, refinar o modelo apresentado acrescentando os seguintes pontos:
 
 - Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 - Entrega – Possui status e código de rastreio;
+
+## **Banco de dados refinado:**
+
+![e-commerce_refinado](https://github.com/isabela-rossetti/projeto_conceitual_bd_ecommerce/blob/main/e-commerce_refinado.png)
